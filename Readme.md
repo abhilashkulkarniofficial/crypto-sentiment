@@ -9,3 +9,15 @@ $ pip install -r requirements.txt
 
 $ python driver.py
 ```
+
+Create virtualenv and activate it
+
+```
+source minds/bin/activate
+```
+
+Deactivate virtualenv
+
+```
+deactivate
+```
